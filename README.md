@@ -1,58 +1,68 @@
-# Hi, I'm Akash Dumala 👋
+# Akash Dumala
 
-**Software Engineer | Full-Stack Development | Python | Java | React**
+### Software Engineer | Full-Stack Development | Backend Engineering
 
-I enjoy building practical software, integrating APIs, working with data, and solving problems across the frontend and backend. I’m focused on strengthening my software engineering fundamentals while building and improving real-world projects.
-
-## What I work with
-
-- **Languages:** Java, Python, JavaScript, SQL
-- **Frontend:** React, Vite, HTML, CSS
-- **Backend:** Flask, FastAPI, Express.js, REST APIs
-- **Databases:** SQL, SQLite, MongoDB
-- **Tools & platforms:** Git, GitHub, Docker, Vercel, Render
-- **AI/ML:** PyTorch, MONAI, computer vision, model explainability
-
-## Featured projects
-
-### [WindScope — Wind Generation Forecast Analytics](https://github.com/akashdumala/windscope-7k2m9)
-A full-stack dashboard comparing UK wind generation forecasts with actual generation using the Elexon BMRS API.
-
-- React, Vite, Recharts, Python, Flask
-- Processes actual and forecast datasets and calculates MAE, RMSE, and forecast bias.
-- [Live application](https://windscope-7k2m9.vercel.app)
-
-### [AI-Assisted Medical Imaging](https://github.com/akashdumala/AI-Medical-Imaging)
-An educational prototype exploring chest X-ray classification, Grad-CAM visual explanations, and experimental CT segmentation.
-
-- Python, FastAPI, PyTorch, MONAI, React
-- Includes model evaluation, API endpoints, and a web interface.
-- **Research/educational use only; not for clinical diagnosis.**
-
-### [Leave Management System](https://github.com/akashdumala/leave-system)
-A Flask REST API for employee leave requests, with validation and controlled approval/rejection workflows.
-
-- Python, Flask, SQLAlchemy, Alembic
-- Uses an application factory structure and database migrations.
-
-### [Mini Task Manager](https://github.com/akashdumala/minitaskmanager)
-A full-stack task management application with a Next.js client and Express API.
-
-- Next.js, TypeScript, Express.js, MongoDB, Mongoose
-- Task completion workflow is currently a work in progress.
-
-## Currently focused on
-
-- Strengthening Java, object-oriented programming, data structures, and algorithms.
-- Building reliable backend services and REST APIs.
-- Improving database design, testing, and deployment practices.
-- Learning how to design maintainable and scalable applications.
-
-## Connect
-
-- GitHub: [@akashdumala](https://github.com/akashdumala)
-- Portfolio projects: Browse the repositories pinned below.
+I build practical web applications and enjoy working across APIs, backend logic, databases, and user interfaces. My project work has focused on **Python, Flask, React, REST APIs, and data-driven applications**. I’m currently strengthening my Java, problem-solving, and software engineering fundamentals.
 
 ---
 
-*I value continuous learning, clear problem-solving, and building software that works beyond the local development environment.*
+## Featured work
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/akashdumala/windscope-7k2m9">WindScope</a></h3>
+      <p>Full-stack dashboard comparing UK wind generation forecasts with actual generation using Elexon BMRS data.</p>
+      <p><strong>React · Vite · Flask · Python · Recharts</strong></p>
+      <a href="https://windscope-7k2m9.vercel.app">Live demo ↗</a>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/akashdumala/AI-Medical-Imaging">AI Medical Imaging</a></h3>
+      <p>Educational prototype for chest X-ray classification, Grad-CAM explanations, and experimental CT segmentation.</p>
+      <p><strong>Python · FastAPI · PyTorch · MONAI · React</strong></p>
+      <em>Research prototype — not for clinical use.</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/akashdumala/leave-system">Leave Management API</a></h3>
+      <p>Backend REST API for employee leave requests, validation, and controlled approval workflows.</p>
+      <p><strong>Python · Flask · SQLAlchemy · Alembic</strong></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/akashdumala/minitaskmanager">Mini Task Manager</a></h3>
+      <p>Full-stack task management application with a separate frontend and Express backend.</p>
+      <p><strong>Next.js · TypeScript · Express · MongoDB</strong></p>
+      <em>Task completion workflow in progress.</em>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Technical toolkit
+
+| Area | Technologies |
+|---|---|
+| Languages | Python, Java, JavaScript, SQL |
+| Frontend | React, Vite, Next.js, HTML, CSS |
+| Backend | Flask, FastAPI, Express.js, REST APIs |
+| Databases | SQLite, MongoDB, SQLAlchemy |
+| AI / ML | PyTorch, MONAI, computer vision, Grad-CAM |
+| Tools & deployment | Git, GitHub, Docker, Vercel, Render |
+
+## Current focus
+
+- Improving Java, object-oriented programming, data structures, and algorithms.
+- Writing maintainable backend services and well-structured REST APIs.
+- Strengthening database design, testing, debugging, and deployment practices.
+- Learning to design reliable applications that are easier to extend and maintain.
+
+## Connect
+
+- **GitHub:** [@akashdumala](https://github.com/akashdumala)
+- **Projects:** Explore the repositories on my profile.
+
+---
+
+<sub>Focused on continuous learning, thoughtful problem-solving, and building software that works end to end.</sub>
